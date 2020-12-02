@@ -11,5 +11,7 @@ class Test {
 	public function crazyStuff()
 	{
 		# code...
+		/* do code:
+			more code  */
 	}
 }
