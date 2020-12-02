@@ -14,4 +14,9 @@ class Test {
 		/* do code:
 			more code  */
 	}
+
+	public function anotherCrazy(Type $var = null)
+	{
+		# code...
+	}
 }
